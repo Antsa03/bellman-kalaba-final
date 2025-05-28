@@ -5,7 +5,7 @@ export const predefinedEdges = [
   { source: "3", target: "11", weight: "16" },
   { source: "3", target: "6", weight: "1" },
   { source: "4", target: "5", weight: "6" },
-  { source: "4", target: "3", weight: "1" },
+  { source: "4", target: "3", weight: "8" },
   { source: "5", target: "9", weight: "1" },
   { source: "6", target: "5", weight: "5" },
   { source: "6", target: "7", weight: "4" },
